@@ -12,7 +12,7 @@ echo "                                       | |                                
 echo "                                       |_|                                                                  |_|          "
 echo ""
 echo "*************************************************************************************************************************"
-echo "                                                                                                  created by @pasinduljay"
+echo "                                                                                                   Created by PASINDULJAY"
 echo ""
 
 # Loop until a valid source directory is provided
